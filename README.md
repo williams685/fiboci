@@ -7,7 +7,7 @@ gleam add fiboci
 ```
 
 ```gleam
-import fibonacci/fiboci
+import fiboci/fiboci
 import gleam/int
 import gleam/io
 
