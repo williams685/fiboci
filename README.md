@@ -3,7 +3,7 @@
 A simple package for calculating the Fibonacci sequence
 
 ```console
-gleam add fibonacci
+gleam add fiboci
 ```
 
 ```gleam
