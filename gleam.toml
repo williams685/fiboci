@@ -1,9 +1,9 @@
 name = "fibonacci"
-version = "0.0.1"
+version = "1.0.0"
 gleam = ">= 1.14.0"
 description = "A simple package for calculating the Fibonacci sequence"
 licences = ["Apache-2.0"]
-# repository = { type = "github", user = "williams685", repo = "" }
+# repository = { type = "github", user = "williams685", repo = "gleam-fibonacci" }
 # links = [{ title = "Website", href = "" }]
 [dependencies]
 gleam_stdlib = ">= 1.0.0 and < 2.0.0"
