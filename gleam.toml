@@ -1,5 +1,5 @@
 name = "fiboci"
-version = "1.0.1"
+version = "1.0.2"
 gleam = ">= 1.14.0"
 
 description = "A simple package for calculating the Fibonacci sequence"
