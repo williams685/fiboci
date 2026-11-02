@@ -1,4 +1,4 @@
-name = "fibonacci"
+name = "gleam_fibonacci"
 version = "1.0.0"
 gleam = ">= 1.14.0"
 description = "A simple package for calculating the Fibonacci sequence"
